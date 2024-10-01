@@ -4,6 +4,9 @@ This is the code from this article:
 
 ## First Time:
 
+1. Download and install chrome dirver [here](https://googlechromelabs.github.io/chrome-for-testing/)
+
+
 ```
 python -m venv .venv
 .\.venv\scripts\activate
